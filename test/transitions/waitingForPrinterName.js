@@ -2,7 +2,7 @@
 
 const linefeed = 10;
 
-const transition = function(data) {
+const transition = function (data) {
   this.printerName = this.printerName || '';
 
   if (data[data.length - 1] !== linefeed) {
