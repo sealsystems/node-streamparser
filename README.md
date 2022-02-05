@@ -1,7 +1,5 @@
 # @sealsystems/streamparser
 
-[![CircleCI](https://circleci.com/gh/sealsystems/node-streamparser.svg?style=svg)](https://circleci.com/gh/sealsystems/node-streamparser)
-[![AppVeyor](https://ci.appveyor.com/api/projects/status/4rbtppfgc4cdoc98?svg=true)](https://ci.appveyor.com/project/Plossys/node-streamparser)
 
 @sealsystems/streamparser is a generic stream parser for Node.js.
 
