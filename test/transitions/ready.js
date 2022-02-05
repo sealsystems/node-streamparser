@@ -1,6 +1,6 @@
 'use strict';
 
-const transition = function(data) {
+const transition = function (data) {
   if (data[0] !== 2) {
     return this.emit('error', new Error('Invalid stream command.'));
   }
