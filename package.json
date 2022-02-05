@@ -25,7 +25,7 @@
     "url": "https://github.com/sealsystems/node-streamparser"
   },
   "dependencies": {
-    "require-all": "2.2.0"
+    "require-all": "3.0.0"
   },
   "devDependencies": {
     "@sealsystems/eslint-config-es": "3.7.5",
