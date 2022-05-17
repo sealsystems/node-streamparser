@@ -28,7 +28,7 @@
     "require-all": "2.2.0"
   },
   "devDependencies": {
-    "@sealsystems/eslint-config-es": "3.7.6",
+    "@sealsystems/eslint-config-es": "3.7.7",
     "@sealsystems/mocha": "4.2.3"
   },
   "release": {
