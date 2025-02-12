@@ -1,3 +1,10 @@
+## 1.1.6 (2025-02-12)
+
+### Bug Fixes
+
+
+Fixed processing zero handled bytes ([a512d13](https://github.com/sealsystems/node-streamparser/commit/a512d13))
+
 ## 1.1.5 (2021-01-16)
 
 ### Chores
