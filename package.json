@@ -1,6 +1,6 @@
 {
   "name": "@sealsystems/streamparser",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "Generic stream parser for Node.js",
   "author": {
     "name": "SEAL Systems AG",

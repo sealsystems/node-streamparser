@@ -1,3 +1,10 @@
+## 1.1.7 (2025-02-12)
+
+### Bug Fixes
+
+
+Added "force" option ([1145455](https://github.com/sealsystems/node-streamparser/commit/1145455))
+
 ## 1.1.6 (2025-02-12)
 
 ### Bug Fixes
